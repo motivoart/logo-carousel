@@ -1,5 +1,5 @@
 
-# 🎠 LogosCarousel
+# LogosCarousel
 
 **LogosCarousel** is a lightweight, configurable TypeScript plugin that creates an auto-scrolling logo carousel. With the use of `IntersectionObserver`, carousels are initialized only when they appear in the user's viewport, improving performance.
 
@@ -102,6 +102,4 @@ new LogosCarousel('[data-lc-wrapper]', {
 | `stopOnHover`            | `boolean`            | `false`           | Pauses animation on hover |
 | `useIntersectionObserver`| `boolean`            | `true`            | Initializes carousel only when in viewport |
 
----
 
-# logo-carousel
